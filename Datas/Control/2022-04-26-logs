@@ -19,3 +19,3244 @@ Checked https://nodes.guru/aptos/setup-guide/en
 Checking https://api.nodes.guru/aptos_update.sh
 Checked https://api.nodes.guru/aptos_update.sh
 ----------------
+******
+11:42
+******
+Checking https://nodes.guru/
+Checked https://nodes.guru/
+----------------
+Checking https://nodes.guru/aptos/setup-guide/en
+Checked https://nodes.guru/aptos/setup-guide/en
+----------------
+Checking https://api.nodes.guru/aptos_update.sh
+Checked https://api.nodes.guru/aptos_update.sh
+----------------
+******
+11:51
+******
+Checking https://nodes.guru/
+Checked https://nodes.guru/
+----------------
+Checking https://nodes.guru/aptos/setup-guide/en
+Checked https://nodes.guru/aptos/setup-guide/en
+----------------
+Checking https://api.nodes.guru/aptos_update.sh
+Checked https://api.nodes.guru/aptos_update.sh
+----------------
+******
+11:51
+******
+Checking http://www.google.com
+Checked http://www.google.com
+----------------
+******
+11:52
+******
+Checking http://www.google.com
+Checked http://www.google.com
+----------------
+Checking https://github.com/
+Checked https://github.com/
+----------------
+******
+11:52
+******
+Checking http://www.google.com
+Checked http://www.google.com
+----------------
+Checking https://github.com/
+Checked https://github.com/
+----------------
+******
+11:53
+******
+Checking http://www.google.com
+Checked http://www.google.com
+----------------
+Checking https://github.com/
+Checked https://github.com/
+----------------
+******
+12:31
+******
+Checking http://www.google.com
+Checked http://www.google.com
+----------------
+Checking https://github.com/
+Checked https://github.com/
+----------------
+******
+13:18
+******
+Checking http://www.google.com
+Checked http://www.google.com
+----------------
+Checking https://github.com/
+Checked https://github.com/
+----------------
+
+COMPARING FILES
+Datas\Pages\github.com_.new
+Datas\Pages\github.com_.old
+
+new content :Line-1 Date-Time:2022-04-26 13:18
+old content :Line-1 Date-Time:2022-04-26 12:31
+
+new content :Line-2 PageHash:===>3edac3faaa94b13297589e32e2323528<===
+old content :Line-2 PageHash:===>f4b3b7a4efdce9fc309f8571aed6e70f<===
+
+new content :Line-42 GitHub: Where the world builds software  GitHub
+old content :Line-42 
+
+new content :Line-43 
+old content :Line-43 GitHub: Where the world builds software  GitHub
+
+new content :Line-88 Skip to content
+old content :Line-88 
+
+new content :Line-89 
+old content :Line-89 Skip to content
+
+new content :Line-104               Signup
+old content :Line-104 
+
+new content :Line-105 
+old content :Line-105               Signup
+
+new content :Line-122         Product
+old content :Line-122 
+
+new content :Line-123 
+old content :Line-123         Product
+
+new content :Line-129       Features
+old content :Line-129 
+
+new content :Line-130 
+old content :Line-130       Features
+
+new content :Line-133       Mobile
+old content :Line-133 
+
+new content :Line-134 
+old content :Line-134       Mobile
+
+new content :Line-137       Actions
+old content :Line-137 
+
+new content :Line-138 
+old content :Line-138       Actions
+
+new content :Line-141       Codespaces
+old content :Line-141 
+
+new content :Line-142 
+old content :Line-142       Codespaces
+
+new content :Line-145       Packages
+old content :Line-145 
+
+new content :Line-146 
+old content :Line-146       Packages
+
+new content :Line-149       Security
+old content :Line-149 
+
+new content :Line-150 
+old content :Line-150       Security
+
+new content :Line-153       Code review
+old content :Line-153 
+
+new content :Line-154 
+old content :Line-154       Code review
+
+new content :Line-157       Issues
+old content :Line-157 
+
+new content :Line-158 
+old content :Line-158       Issues
+
+new content :Line-161       Integrations
+old content :Line-161 
+
+new content :Line-162 
+old content :Line-162       Integrations
+
+new content :Line-165       GitHub Sponsors
+old content :Line-165 
+
+new content :Line-166 
+old content :Line-166       GitHub Sponsors
+
+new content :Line-169       Customer stories
+old content :Line-169 
+
+new content :Line-170 
+old content :Line-170       Customer stories
+
+new content :Line-176 Team
+old content :Line-176 
+
+new content :Line-177 
+old content :Line-177 Team
+
+new content :Line-179 Enterprise
+old content :Line-179 
+
+new content :Line-180 
+old content :Line-180 Enterprise
+
+new content :Line-184         Explore
+old content :Line-184 
+
+new content :Line-185 
+old content :Line-185         Explore
+
+new content :Line-191       Explore GitHub
+old content :Line-191 
+
+new content :Line-192 
+old content :Line-192       Explore GitHub
+
+new content :Line-193 Learn and contribute
+old content :Line-193 
+
+new content :Line-194 
+old content :Line-194 Learn and contribute
+
+new content :Line-196       Topics
+old content :Line-196 
+
+new content :Line-197 
+old content :Line-197       Topics
+
+new content :Line-200       Collections
+old content :Line-200 
+
+new content :Line-201 
+old content :Line-201       Collections
+
+new content :Line-204       Trending
+old content :Line-204 
+
+new content :Line-205 
+old content :Line-205       Trending
+
+new content :Line-208       Learning Lab
+old content :Line-208 
+
+new content :Line-209 
+old content :Line-209       Learning Lab
+
+new content :Line-212       Open source guides
+old content :Line-212 
+
+new content :Line-213 
+old content :Line-213       Open source guides
+
+new content :Line-214 Connect with others
+old content :Line-214 
+
+new content :Line-215 
+old content :Line-215 Connect with others
+
+new content :Line-217       The ReadME Project
+old content :Line-217 
+
+new content :Line-218 
+old content :Line-218       The ReadME Project
+
+new content :Line-221       Events
+old content :Line-221 
+
+new content :Line-222 
+old content :Line-222       Events
+
+new content :Line-225       Community forum
+old content :Line-225 
+
+new content :Line-226 
+old content :Line-226       Community forum
+
+new content :Line-229       GitHub Education
+old content :Line-229 
+
+new content :Line-230 
+old content :Line-230       GitHub Education
+
+new content :Line-233       GitHub Stars program
+old content :Line-233 
+
+new content :Line-234 
+old content :Line-234       GitHub Stars program
+
+new content :Line-240 Marketplace
+old content :Line-240 
+
+new content :Line-241 
+old content :Line-241 Marketplace
+
+new content :Line-245         Pricing
+old content :Line-245 
+
+new content :Line-246 
+old content :Line-246         Pricing
+
+new content :Line-252       Plans
+old content :Line-252 
+
+new content :Line-253 
+old content :Line-253       Plans
+
+new content :Line-256       Compare plans
+old content :Line-256 
+
+new content :Line-257 
+old content :Line-257       Compare plans
+
+new content :Line-260       Contact Sales
+old content :Line-260 
+
+new content :Line-261 
+old content :Line-261       Contact Sales
+
+new content :Line-264       Education
+old content :Line-264 
+
+new content :Line-265 
+old content :Line-265       Education
+
+new content :Line-302         Search
+old content :Line-302 
+
+new content :Line-303 
+old content :Line-303         Search
+
+new content :Line-305         All GitHub
+old content :Line-305 
+
+new content :Line-306 
+old content :Line-306         All GitHub
+
+new content :Line-310       Jump to
+old content :Line-310 
+
+new content :Line-311 
+old content :Line-311       Jump to
+
+new content :Line-318 No suggested jump to results
+old content :Line-318 
+
+new content :Line-319 
+old content :Line-319 No suggested jump to results
+
+new content :Line-340         Search
+old content :Line-340 
+
+new content :Line-341 
+old content :Line-341         Search
+
+new content :Line-343         All GitHub
+old content :Line-343 
+
+new content :Line-344 
+old content :Line-344         All GitHub
+
+new content :Line-348       Jump to
+old content :Line-348 
+
+new content :Line-349 
+old content :Line-349       Jump to
+
+new content :Line-371         Search
+old content :Line-371 
+
+new content :Line-372 
+old content :Line-372         Search
+
+new content :Line-374         All GitHub
+old content :Line-374 
+
+new content :Line-375 
+old content :Line-375         All GitHub
+
+new content :Line-379       Jump to
+old content :Line-379 
+
+new content :Line-380 
+old content :Line-380       Jump to
+
+new content :Line-402         Search
+old content :Line-402 
+
+new content :Line-403 
+old content :Line-403         Search
+
+new content :Line-405         All GitHub
+old content :Line-405 
+
+new content :Line-406 
+old content :Line-406         All GitHub
+
+new content :Line-410       Jump to
+old content :Line-410 
+
+new content :Line-411 
+old content :Line-411       Jump to
+
+new content :Line-423             Sign in
+old content :Line-423 
+
+new content :Line-424 
+old content :Line-424             Sign in
+
+new content :Line-427             Sign up
+old content :Line-427 
+
+new content :Line-428 
+old content :Line-428             Sign up
+
+new content :Line-447  Where the world builds software
+old content :Line-447 
+
+new content :Line-448 Millions of developers and companies build, ship, and maintain their software on GitHubthe largest and most advanced development platform in the world.
+old content :Line-448  Where the world builds software
+
+new content :Line-449 
+old content :Line-449 Millions of developers and companies build, ship, and maintain their software on GitHubthe largest and most advanced development platform in the world.
+
+new content :Line-452 Email address
+old content :Line-452 
+
+new content :Line-453 
+old content :Line-453 Email address
+
+new content :Line-460   Sign up for GitHub
+old content :Line-460 
+
+new content :Line-461 
+old content :Line-461   Sign up for GitHub
+
+new content :Line-471 73+ million
+old content :Line-471 
+
+new content :Line-472 Developers
+old content :Line-472 73+ million
+
+new content :Line-473 
+old content :Line-473 Developers
+
+new content :Line-475 4+ million
+old content :Line-475 
+
+new content :Line-476 Organizations
+old content :Line-476 4+ million
+
+new content :Line-477 
+old content :Line-477 Organizations
+
+new content :Line-479 200+ million
+old content :Line-479 
+
+new content :Line-480 Repositories
+old content :Line-480 200+ million
+
+new content :Line-481 
+old content :Line-481 Repositories
+
+new content :Line-483 84%
+old content :Line-483 
+
+new content :Line-484 Fortune 100
+old content :Line-484 84%
+
+new content :Line-485 
+old content :Line-485 Fortune 100
+
+new content :Line-533 Build like the best with GitHub Enterprise
+old content :Line-533 
+
+new content :Line-534 Take collaboration to the next level with security and administrative features built for teams.
+old content :Line-534 Build like the best with GitHub Enterprise
+
+new content :Line-535 
+old content :Line-535 Take collaboration to the next level with security and administrative features built for teams.
+
+new content :Line-537   Start a free trial
+old content :Line-537 
+
+new content :Line-538 
+old content :Line-538   Start a free trial
+
+new content :Line-542   Contact Sales
+old content :Line-542 
+
+new content :Line-543 
+old content :Line-543   Contact Sales
+
+new content :Line-571 Code
+old content :Line-571 
+
+new content :Line-572 Collaborate
+old content :Line-572 Code
+
+new content :Line-573 Develop
+old content :Line-573 Collaborate
+
+new content :Line-574 Automate
+old content :Line-574 Develop
+
+new content :Line-575 Secure
+old content :Line-575 Automate
+
+new content :Line-576 Community
+old content :Line-576 Secure
+
+new content :Line-577 
+old content :Line-577 Community
+
+new content :Line-580   Sign up
+old content :Line-580 
+
+new content :Line-581 
+old content :Line-581   Sign up
+
+new content :Line-595 Give your code a home in the cloud
+old content :Line-595 
+
+new content :Line-596 
+old content :Line-596 Give your code a home in the cloud
+
+new content :Line-602 Record or rewind any change to your code to keep you and your team in sync. Host it all for free with unlimited public and private repositories.
+old content :Line-602 
+
+new content :Line-603 
+old content :Line-603 Record or rewind any change to your code to keep you and your team in sync. Host it all for free with unlimited public and private repositories.
+
+new content :Line-604   Sign up for GitHub
+old content :Line-604 
+
+new content :Line-605 
+old content :Line-605   Sign up for GitHub
+
+new content :Line-609 jasonetco added some commits 8 minutes ago
+old content :Line-609 
+
+new content :Line-610 
+old content :Line-610 jasonetco added some commits 8 minutes ago
+
+new content :Line-614 Updated README.md
+old content :Line-614 
+
+new content :Line-615 
+old content :Line-615 Updated README.md
+
+new content :Line-633 octocat-classifier
+old content :Line-633 
+
+new content :Line-634 
+old content :Line-634 octocat-classifier
+
+new content :Line-637 assets
+old content :Line-637 
+
+new content :Line-638 
+old content :Line-638 assets
+
+new content :Line-641 tests
+old content :Line-641 
+
+new content :Line-642 
+old content :Line-642 tests
+
+new content :Line-645 LICENSE
+old content :Line-645 
+
+new content :Line-646 
+old content :Line-646 LICENSE
+
+new content :Line-649 README.md
+old content :Line-649 
+
+new content :Line-650 
+old content :Line-650 README.md
+
+new content :Line-653 index.js
+old content :Line-653 
+
+new content :Line-654 
+old content :Line-654 index.js
+
+new content :Line-657 package.json
+old content :Line-657 
+
+new content :Line-658 
+old content :Line-658 package.json
+
+new content :Line-665 README.md
+old content :Line-665 
+
+new content :Line-666 
+old content :Line-666 README.md
+
+new content :Line-669 app.js
+old content :Line-669 
+
+new content :Line-670 
+old content :Line-670 app.js
+
+new content :Line-673 index.html
+old content :Line-673 
+
+new content :Line-674 
+old content :Line-674 index.html
+
+new content :Line-679           1
+old content :Line-679 
+
+new content :Line-680           2
+old content :Line-680           1
+
+new content :Line-681           3
+old content :Line-681           2
+
+new content :Line-682           4
+old content :Line-682           3
+
+new content :Line-683           5
+old content :Line-683           4
+
+new content :Line-684           6
+old content :Line-684           5
+
+new content :Line-685           7
+old content :Line-685           6
+
+new content :Line-686           8
+old content :Line-686           7
+
+new content :Line-687           9
+old content :Line-687           8
+
+new content :Line-688           10
+old content :Line-688           9
+
+new content :Line-689           11
+old content :Line-689           10
+
+new content :Line-690           12
+old content :Line-690           11
+
+new content :Line-691           13
+old content :Line-691           12
+
+new content :Line-692           14
+old content :Line-692           13
+
+new content :Line-693           15
+old content :Line-693           14
+
+new content :Line-694           16
+old content :Line-694           15
+
+new content :Line-695           17
+old content :Line-695           16
+
+new content :Line-696           18
+old content :Line-696           17
+
+new content :Line-697           19
+old content :Line-697           18
+
+new content :Line-698           20
+old content :Line-698           19
+
+new content :Line-699           21
+old content :Line-699           20
+
+new content :Line-700           22
+old content :Line-700           21
+
+new content :Line-701           23
+old content :Line-701           22
+
+new content :Line-702           24
+old content :Line-702           23
+
+new content :Line-703           25
+old content :Line-703           24
+
+new content :Line-704           26
+old content :Line-704           25
+
+new content :Line-705           27
+old content :Line-705           26
+
+new content :Line-706           28
+old content :Line-706           27
+
+new content :Line-707           29
+old content :Line-707           28
+
+new content :Line-708           30
+old content :Line-708           29
+
+new content :Line-709 
+old content :Line-709           30
+
+new content :Line-712               # Octocat Classifier :octopus: :cat: :mag:
+old content :Line-712 
+
+new content :Line-713 
+old content :Line-713               # Octocat Classifier :octopus: :cat: :mag:
+
+new content :Line-714               ![](https://img.shields.io/badge/build-passing-brightgreen) ![](https://img.shields.io/badge/coverage-90%25-green) ![](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)
+old content :Line-714 
+
+new content :Line-715 
+old content :Line-715               ![](https://img.shields.io/badge/build-passing-brightgreen) ![](https://img.shields.io/badge/coverage-90%25-green) ![](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)
+
+new content :Line-716               As the name suggests, Octocat Classifier is used to determine whether a given image contains an Octocat. It is trained with images from the [Octodex](1), images shared with [#MyOctocat on Twitter](2), and [photographs of laptops with :octocat: stickers on them]().
+old content :Line-716 
+
+new content :Line-717 
+old content :Line-717               As the name suggests, Octocat Classifier is used to determine whether a given image contains an Octocat. It is trained with images from the [Octodex](1), images shared with [#MyOctocat on Twitter](2), and [photographs of laptops with :octocat: stickers on them]().
+
+new content :Line-718               ## Installation
+old content :Line-718 
+
+new content :Line-719 
+old content :Line-719               ## Installation
+
+new content :Line-720               ```
+old content :Line-720 
+
+new content :Line-721               git clone https://github.com/jasonetco/octocat-classifier
+old content :Line-721               ```
+
+new content :Line-722               ```
+old content :Line-722               git clone https://github.com/jasonetco/octocat-classifier
+
+new content :Line-723 
+old content :Line-723               ```
+
+new content :Line-733 ~/octocat-classifier
+old content :Line-733 
+
+new content :Line-734 $ gh repo create octocat-classifier
+old content :Line-734 ~/octocat-classifier
+
+new content :Line-735 
+old content :Line-735 $ gh repo create octocat-classifier
+
+new content :Line-737  Created repository jasonetco/octocat-classifier on GitHub
+old content :Line-737 
+
+new content :Line-738 
+old content :Line-738  Created repository jasonetco/octocat-classifier on GitHub
+
+new content :Line-740  Added remote https://github.com/jasonetco/octocat-classifier.git
+old content :Line-740 
+
+new content :Line-741 
+old content :Line-741  Added remote https://github.com/jasonetco/octocat-classifier.git
+
+new content :Line-747 ~/octocat-classifier
+old content :Line-747 
+
+new content :Line-748 $ git push origin main
+old content :Line-748 ~/octocat-classifier
+
+new content :Line-749 
+old content :Line-749 $ git push origin main
+
+new content :Line-764 Support Octocats shared on Twitter
+old content :Line-764 
+
+new content :Line-765 
+old content :Line-765 Support Octocats shared on Twitter
+
+new content :Line-769 Created index.js
+old content :Line-769 
+
+new content :Line-770 
+old content :Line-770 Created index.js
+
+new content :Line-774  Build on what's been built
+old content :Line-774 
+
+new content :Line-775 
+old content :Line-775  Build on what's been built
+
+new content :Line-776 Write less code thanks to the world's largest software package registry.
+old content :Line-776 
+
+new content :Line-777                   Find the best community-approved projects to accelerate your work, then share it with the world with npm and GitHub Packages.
+old content :Line-777 Write less code thanks to the world's largest software package registry.
+
+new content :Line-778 
+old content :Line-778                   Find the best community-approved projects to accelerate your work, then share it with the world with npm and GitHub Packages.
+
+new content :Line-786 ~/octocat-classifier
+old content :Line-786 
+
+new content :Line-787 $ npm install eslint
+old content :Line-787 ~/octocat-classifier
+
+new content :Line-788 
+old content :Line-788 $ npm install eslint
+
+new content :Line-790 + eslint@7.8.1
+old content :Line-790 
+
+new content :Line-791 
+old content :Line-791 + eslint@7.8.1
+
+new content :Line-793 added 109 packages from 64 contributors and audited 109 packages in 3.491s
+old content :Line-793 
+
+new content :Line-794 
+old content :Line-794 added 109 packages from 64 contributors and audited 109 packages in 3.491s
+
+new content :Line-799 9 packages are looking for funding
+old content :Line-799 
+
+new content :Line-800 
+old content :Line-800 9 packages are looking for funding
+
+new content :Line-802 run `npm fund` for details
+old content :Line-802 
+
+new content :Line-803 
+old content :Line-803 run `npm fund` for details
+
+new content :Line-808 found 0 vulnerabilities
+old content :Line-808 
+
+new content :Line-809 
+old content :Line-809 found 0 vulnerabilities
+
+new content :Line-812 ~/octocat-classifier
+old content :Line-812 
+
+new content :Line-813 $
+old content :Line-813 ~/octocat-classifier
+
+new content :Line-814 
+old content :Line-814 $
+
+new content :Line-824 Added package for javascript linting
+old content :Line-824 
+
+new content :Line-825 
+old content :Line-825 Added package for javascript linting
+
+new content :Line-841               git checkout -b origin add-status-screens
+old content :Line-841 
+
+new content :Line-842 
+old content :Line-842               git checkout -b origin add-status-screens
+
+new content :Line-853 origin/add-status-screens
+old content :Line-853 
+
+new content :Line-854 
+old content :Line-854 origin/add-status-screens
+
+new content :Line-863 +3 collaborators
+old content :Line-863 
+
+new content :Line-864 
+old content :Line-864 +3 collaborators
+
+new content :Line-865 Ready player two. Scale your team to any size in the cloud.
+old content :Line-865 
+
+new content :Line-866 
+old content :Line-866 Ready player two. Scale your team to any size in the cloud.
+
+new content :Line-867   Create a new organization for free
+old content :Line-867 
+
+new content :Line-868 
+old content :Line-868   Create a new organization for free
+
+new content :Line-887  Better code starts with pull requestsconversations around your code where you can experiment, squash bugs, and build new features.
+old content :Line-887 
+
+new content :Line-888 
+old content :Line-888  Better code starts with pull requestsconversations around your code where you can experiment, squash bugs, and build new features.
+
+new content :Line-903 Code review is built in. Pull requests cover the entire review flow: propose changes, browse code, ask for input, make a suggestion, and sign off in one place.
+old content :Line-903 
+
+new content :Line-904 
+old content :Line-904 Code review is built in. Pull requests cover the entire review flow: propose changes, browse code, ask for input, make a suggestion, and sign off in one place.
+
+new content :Line-919  Know when your pull request is ready to merge when everythings green. Reviews approved? Check. Tests passing? Check check. No conflicts? Ship it already.
+old content :Line-919 
+
+new content :Line-920 
+old content :Line-920  Know when your pull request is ready to merge when everythings green. Reviews approved? Check. Tests passing? Check check. No conflicts? Ship it already.
+
+new content :Line-933 git merge add-status-screens
+old content :Line-933 
+
+new content :Line-934 
+old content :Line-934 git merge add-status-screens
+
+new content :Line-956 Keep work moving.
+old content :Line-956 
+
+new content :Line-957                     Review or merge code, manage notifications, browse repositories, and more with GitHub Mobile.
+old content :Line-957 Keep work moving.
+
+new content :Line-958 
+old content :Line-958                     Review or merge code, manage notifications, browse repositories, and more with GitHub Mobile.
+
+new content :Line-959 Available for iOS and Android
+old content :Line-959 
+
+new content :Line-960 
+old content :Line-960 Available for iOS and Android
+
+new content :Line-992           bash
+old content :Line-992 
+
+new content :Line-993 
+old content :Line-993           bash
+
+new content :Line-998 ~/
+old content :Line-998 
+
+new content :Line-999 $ gh pr status
+old content :Line-999 ~/
+
+new content :Line-1000 
+old content :Line-1000 $ gh pr status
+
+new content :Line-1002 Relevant pull requests in cli/cli
+old content :Line-1002 
+
+new content :Line-1003 
+old content :Line-1003 Relevant pull requests in cli/cli
+
+new content :Line-1008 Current branch
+old content :Line-1008 
+
+new content :Line-1009 
+old content :Line-1009 Current branch
+
+new content :Line-1011 There is no pull request associated with [main]
+old content :Line-1011 
+
+new content :Line-1012 
+old content :Line-1012 There is no pull request associated with [main]
+
+new content :Line-1017 Created by you
+old content :Line-1017 
+
+new content :Line-1018 
+old content :Line-1018 Created by you
+
+new content :Line-1020 You have no open pull requests
+old content :Line-1020 
+
+new content :Line-1021 
+old content :Line-1021 You have no open pull requests
+
+new content :Line-1026 Requesting a code review from you
+old content :Line-1026 
+
+new content :Line-1027 
+old content :Line-1027 Requesting a code review from you
+
+new content :Line-1029 #1401 Correctly handle and set empty fields...
+old content :Line-1029 
+
+new content :Line-1030 
+old content :Line-1030 #1401 Correctly handle and set empty fields...
+
+new content :Line-1032 [octocat:emptyBody]
+old content :Line-1032 
+
+new content :Line-1033 
+old content :Line-1033 [octocat:emptyBody]
+
+new content :Line-1035  Checks passing
+old content :Line-1035 
+
+new content :Line-1036 
+old content :Line-1036  Checks passing
+
+new content :Line-1038 #1357 Added confirmation steps for risk...
+old content :Line-1038 
+
+new content :Line-1039 
+old content :Line-1039 #1357 Added confirmation steps for risk...
+
+new content :Line-1041 [octocat:confirmations]
+old content :Line-1041 
+
+new content :Line-1042 
+old content :Line-1042 [octocat:confirmations]
+
+new content :Line-1044 x 1/3 checks failing
+old content :Line-1044 
+
+new content :Line-1045 
+old content :Line-1045 x 1/3 checks failing
+
+new content :Line-1048 ~/
+old content :Line-1048 
+
+new content :Line-1049 $
+old content :Line-1049 ~/
+
+new content :Line-1050 
+old content :Line-1050 $
+
+new content :Line-1056 Work however you want.
+old content :Line-1056 
+
+new content :Line-1057                     Put a GUI on it with GitHub Desktop or stay in the command line with GitHub CLI.
+old content :Line-1057 Work however you want.
+
+new content :Line-1058 
+old content :Line-1058                     Put a GUI on it with GitHub Desktop or stay in the command line with GitHub CLI.
+
+new content :Line-1059 Available for macOS, Windows, and Linux*
+old content :Line-1059 
+
+new content :Line-1060 
+old content :Line-1060 Available for macOS, Windows, and Linux*
+
+new content :Line-1065 * GitHub CLI is available on macOS, Windows, and Linux* GitHub Desktop is available on macOS and Windows
+old content :Line-1065 
+
+new content :Line-1066 
+old content :Line-1066 * GitHub CLI is available on macOS, Windows, and Linux* GitHub Desktop is available on macOS and Windows
+
+new content :Line-1087 Blazing fast cloud developer environments with Codespaces
+old content :Line-1087 
+
+new content :Line-1088 
+old content :Line-1088 Blazing fast cloud developer environments with Codespaces
+
+new content :Line-1089   Learn more about GitHub Codespaces
+old content :Line-1089 
+
+new content :Line-1090 
+old content :Line-1090   Learn more about GitHub Codespaces
+
+new content :Line-1095 The future of code is in the cloud, not your local copy. Codespaces gives you a complete, configurable dev environment on top of a powerful VM in minutes.
+old content :Line-1095 
+
+new content :Line-1096 
+old content :Line-1096 The future of code is in the cloud, not your local copy. Codespaces gives you a complete, configurable dev environment on top of a powerful VM in minutes.
+
+new content :Line-1100 Visual Studio Code, in your browser, full stop. Codespaces brings the worlds most popular desktop editor to every repo. Code, build, test, use the terminal, and open pull requests from anywhere.
+old content :Line-1100 
+
+new content :Line-1101 
+old content :Line-1101 Visual Studio Code, in your browser, full stop. Codespaces brings the worlds most popular desktop editor to every repo. Code, build, test, use the terminal, and open pull requests from anywhere.
+
+new content :Line-1104 Customize to your hearts desire. Add your favorite VS Code extensions, create a devcontainer config file, install new themes, and tweak your settings.
+old content :Line-1104 
+
+new content :Line-1105 
+old content :Line-1105 Customize to your hearts desire. Add your favorite VS Code extensions, create a devcontainer config file, install new themes, and tweak your settings.
+
+new content :Line-1146  Automate anything with GitHub Actions
+old content :Line-1146 
+
+new content :Line-1147 
+old content :Line-1147  Automate anything with GitHub Actions
+
+new content :Line-1148   Learn more about GitHub Actions
+old content :Line-1148 
+
+new content :Line-1149 
+old content :Line-1149   Learn more about GitHub Actions
+
+new content :Line-1155 Setup CI/CD, enhance your DevOps, and script your entire workflow with GitHub Actions. Kick off automated workflows with GitHub events like push, issue creation, merge, and release.
+old content :Line-1155 
+
+new content :Line-1156 
+old content :Line-1156 Setup CI/CD, enhance your DevOps, and script your entire workflow with GitHub Actions. Kick off automated workflows with GitHub events like push, issue creation, merge, and release.
+
+new content :Line-1175 11,000+ Actions
+old content :Line-1175 
+
+new content :Line-1176 Write your own, or import Actions from the open source community, all within our world-class editor. Feeling stuck? Browse the Actions developer docs as you code.
+old content :Line-1176 11,000+ Actions
+
+new content :Line-1177 
+old content :Line-1177 Write your own, or import Actions from the open source community, all within our world-class editor. Feeling stuck? Browse the Actions developer docs as you code.
+
+new content :Line-1178   Explore the Actions Marketplace
+old content :Line-1178 
+
+new content :Line-1179 
+old content :Line-1179   Explore the Actions Marketplace
+
+new content :Line-1208 You can have it all. Run actions in any language or operating system, on Linux, macOS, Windows, ARM, and containers. Or all at once with matrix builds.
+old content :Line-1208 
+
+new content :Line-1209 
+old content :Line-1209 You can have it all. Run actions in any language or operating system, on Linux, macOS, Windows, ARM, and containers. Or all at once with matrix builds.
+
+new content :Line-1287 With 70 million jobs run per month youre in good company with Actions, the number one CI service on the worlds largest developer platform.
+old content :Line-1287 
+
+new content :Line-1288 
+old content :Line-1288 With 70 million jobs run per month youre in good company with Actions, the number one CI service on the worlds largest developer platform.
+
+new content :Line-1294 Speaking of automation, Dependabot keeps your projects up to date with automated pull requests that update all your dependencies. Just review and merge to keep your software secure.
+old content :Line-1294 
+
+new content :Line-1295 
+old content :Line-1295 Speaking of automation, Dependabot keeps your projects up to date with automated pull requests that update all your dependencies. Just review and merge to keep your software secure.
+
+new content :Line-1296   Learn more about Dependabot
+old content :Line-1296 
+
+new content :Line-1297 
+old content :Line-1297   Learn more about Dependabot
+
+new content :Line-1335 Find and fix vulnerabilities  before you merge
+old content :Line-1335 
+
+new content :Line-1336 
+old content :Line-1336 Find and fix vulnerabilities  before you merge
+
+new content :Line-1337   Learn more about advanced security
+old content :Line-1337 
+
+new content :Line-1338 
+old content :Line-1338   Learn more about advanced security
+
+new content :Line-1347 Secure your code as you write it. CodeQLs code scanning automatically reviews every change to your codebase and identifies known vulnerabilities before they ever reach production.
+old content :Line-1347 
+
+new content :Line-1348 
+old content :Line-1348 Secure your code as you write it. CodeQLs code scanning automatically reviews every change to your codebase and identifies known vulnerabilities before they ever reach production.
+
+new content :Line-1379 Vulnerabilities found
+old content :Line-1379 
+
+new content :Line-1380 
+old content :Line-1380 Vulnerabilities found
+
+new content :Line-1384 Fixed deserialized data security vulnerability
+old content :Line-1384 
+
+new content :Line-1385 
+old content :Line-1385 Fixed deserialized data security vulnerability
+
+new content :Line-1390 Keep your secrets. We automatically scan repositories for OAuth tokens, API keys, personal tokens, and more. If we find one, well notify you and the partner that issued it to invalidate the secret.
+old content :Line-1390 
+
+new content :Line-1391 
+old content :Line-1391 Keep your secrets. We automatically scan repositories for OAuth tokens, API keys, personal tokens, and more. If we find one, well notify you and the partner that issued it to invalidate the secret.
+
+new content :Line-1408 OAuth token found
+old content :Line-1408 
+
+new content :Line-1409 
+old content :Line-1409 OAuth token found
+
+new content :Line-1413 Replaced OAuth token with a key vault value
+old content :Line-1413 
+
+new content :Line-1414 
+old content :Line-1414 Replaced OAuth token with a key vault value
+
+new content :Line-1427 Found a vulnerability? Our security advisory remediation tools help developers identify and disclose them responsibly so maintainers can patch them in dedicated, private workspaces.
+old content :Line-1427 
+
+new content :Line-1428 
+old content :Line-1428 Found a vulnerability? Our security advisory remediation tools help developers identify and disclose them responsibly so maintainers can patch them in dedicated, private workspaces.
+
+new content :Line-1445 The home for all developers  including you
+old content :Line-1445 
+
+new content :Line-1446 
+old content :Line-1446 The home for all developers  including you
+
+new content :Line-1455 GitHub Discussions is dedicated space for your community to come together, ask and answer questions, and have open-ended conversations.
+old content :Line-1455 
+
+new content :Line-1456 
+old content :Line-1456 GitHub Discussions is dedicated space for your community to come together, ask and answer questions, and have open-ended conversations.
+
+new content :Line-1458   Learn how to get started with Discussions
+old content :Line-1458 
+
+new content :Line-1459 
+old content :Line-1459   Learn how to get started with Discussions
+
+new content :Line-1490  Amplify your voice in your own personal README on your profile.
+old content :Line-1490 
+
+new content :Line-1491                     Tell the story of your work through your repositories, contributions, and technologies of choice.
+old content :Line-1491  Amplify your voice in your own personal README on your profile.
+
+new content :Line-1492 
+old content :Line-1492                     Tell the story of your work through your repositories, contributions, and technologies of choice.
+
+new content :Line-1515 sophshep started sponsoring you for $10/month 2x 3 days ago
+old content :Line-1515 
+
+new content :Line-1516 
+old content :Line-1516 sophshep started sponsoring you for $10/month 2x 3 days ago
+
+new content :Line-1520 joshaber started sponsoring you for $10/month 5x 2 days ago
+old content :Line-1520 
+
+new content :Line-1521 
+old content :Line-1521 joshaber started sponsoring you for $10/month 5x 2 days ago
+
+new content :Line-1525 pmarsceill started sponsoring you for $25/month 2 days ago
+old content :Line-1525 
+
+new content :Line-1526 
+old content :Line-1526 pmarsceill started sponsoring you for $25/month 2 days ago
+
+new content :Line-1531 That open source code you wrote for yourself might just help someone else. Get paid for building what matters to you with GitHub Sponsors.
+old content :Line-1531 
+
+new content :Line-1532 Support the projects you depend on, too.
+old content :Line-1532 That open source code you wrote for yourself might just help someone else. Get paid for building what matters to you with GitHub Sponsors.
+
+new content :Line-1533 100% to developers, zero fees
+old content :Line-1533 Support the projects you depend on, too.
+
+new content :Line-1534 
+old content :Line-1534 100% to developers, zero fees
+
+new content :Line-1535   Learn more about Sponsors
+old content :Line-1535 
+
+new content :Line-1536 
+old content :Line-1536   Learn more about Sponsors
+
+new content :Line-1580 Make your contribution
+old content :Line-1580 
+
+new content :Line-1581 Small experiments, inspired inventions, and the software everyone depends onthe code you write on GitHub can reach one codebase or millions.
+old content :Line-1581 Make your contribution
+
+new content :Line-1582 
+old content :Line-1582 Small experiments, inspired inventions, and the software everyone depends onthe code you write on GitHub can reach one codebase or millions.
+
+new content :Line-1583   Sign up for GitHub
+old content :Line-1583 
+
+new content :Line-1584 
+old content :Line-1584   Sign up for GitHub
+
+new content :Line-1588   Contact Sales
+old content :Line-1588 
+
+new content :Line-1589 
+old content :Line-1589   Contact Sales
+
+new content :Line-1600 tensorflow/tensorflow
+old content :Line-1600 
+
+new content :Line-1601 
+old content :Line-1601 tensorflow/tensorflow
+
+new content :Line-1602 An Open Source Machine Learning Framework for Everyone
+old content :Line-1602 
+
+new content :Line-1603 
+old content :Line-1603 An Open Source Machine Learning Framework for Everyone
+
+new content :Line-1609 gatsbyjs/gatsby
+old content :Line-1609 
+
+new content :Line-1610 
+old content :Line-1610 gatsbyjs/gatsby
+
+new content :Line-1611 Build blazing fast, modern apps and websites with React
+old content :Line-1611 
+
+new content :Line-1612 
+old content :Line-1612 Build blazing fast, modern apps and websites with React
+
+new content :Line-1618 home-assistant/core
+old content :Line-1618 
+
+new content :Line-1619 
+old content :Line-1619 home-assistant/core
+
+new content :Line-1620  Open source home automation that puts local control and privacy first
+old content :Line-1620 
+
+new content :Line-1621 
+old content :Line-1621  Open source home automation that puts local control and privacy first
+
+new content :Line-1629 rust-lang/rust
+old content :Line-1629 
+
+new content :Line-1630 
+old content :Line-1630 rust-lang/rust
+
+new content :Line-1631 Empowering everyone to build reliable and efficient software.
+old content :Line-1631 
+
+new content :Line-1632 
+old content :Line-1632 Empowering everyone to build reliable and efficient software.
+
+new content :Line-1638 flutter/flutter
+old content :Line-1638 
+
+new content :Line-1639 
+old content :Line-1639 flutter/flutter
+
+new content :Line-1640 Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+old content :Line-1640 
+
+new content :Line-1641 
+old content :Line-1641 Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+
+new content :Line-1647 kubernetes/kubernetes
+old content :Line-1647 
+
+new content :Line-1648 
+old content :Line-1648 kubernetes/kubernetes
+
+new content :Line-1649 Production-Grade Container Scheduling and Management
+old content :Line-1649 
+
+new content :Line-1650 
+old content :Line-1650 Production-Grade Container Scheduling and Management
+
+new content :Line-1658 apple/swift
+old content :Line-1658 
+
+new content :Line-1659 
+old content :Line-1659 apple/swift
+
+new content :Line-1660 The Swift Programming Language
+old content :Line-1660 
+
+new content :Line-1661 
+old content :Line-1661 The Swift Programming Language
+
+new content :Line-1667 ansible/ansible
+old content :Line-1667 
+
+new content :Line-1668 
+old content :Line-1668 ansible/ansible
+
+new content :Line-1669 Ansible is a radically simple IT automation platform.
+old content :Line-1669 
+
+new content :Line-1670 
+old content :Line-1670 Ansible is a radically simple IT automation platform.
+
+new content :Line-1676 hashicorp/terraform
+old content :Line-1676 
+
+new content :Line-1677 
+old content :Line-1677 hashicorp/terraform
+
+new content :Line-1678 Terraform enables you to safely and predictably create, change, and improve infrastructure.
+old content :Line-1678 
+
+new content :Line-1679 
+old content :Line-1679 Terraform enables you to safely and predictably create, change, and improve infrastructure.
+
+new content :Line-1687 ohmyzsh/ohmyzsh
+old content :Line-1687 
+
+new content :Line-1688 
+old content :Line-1688 ohmyzsh/ohmyzsh
+
+new content :Line-1689  A delightful community-driven framework for managing your zsh configuration.
+old content :Line-1689 
+
+new content :Line-1690 
+old content :Line-1690  A delightful community-driven framework for managing your zsh configuration.
+
+new content :Line-1696 facebook/react
+old content :Line-1696 
+
+new content :Line-1697 
+old content :Line-1697 facebook/react
+
+new content :Line-1698 A declarative, efficient, and flexible JavaScript library for building user interfaces.
+old content :Line-1698 
+
+new content :Line-1699 
+old content :Line-1699 A declarative, efficient, and flexible JavaScript library for building user interfaces.
+
+new content :Line-1705 npm/cli
+old content :Line-1705 
+
+new content :Line-1706 
+old content :Line-1706 npm/cli
+
+new content :Line-1707 The package manager for JavaScript
+old content :Line-1707 
+
+new content :Line-1708 
+old content :Line-1708 The package manager for JavaScript
+
+new content :Line-1730           Product
+old content :Line-1730 
+
+new content :Line-1731 
+old content :Line-1731           Product
+
+new content :Line-1734 Features
+old content :Line-1734 
+
+new content :Line-1735 
+old content :Line-1735 Features
+
+new content :Line-1737 Security
+old content :Line-1737 
+
+new content :Line-1738 
+old content :Line-1738 Security
+
+new content :Line-1740 Team
+old content :Line-1740 
+
+new content :Line-1741 
+old content :Line-1741 Team
+
+new content :Line-1743 Enterprise
+old content :Line-1743 
+
+new content :Line-1744 
+old content :Line-1744 Enterprise
+
+new content :Line-1746 Customer stories
+old content :Line-1746 
+
+new content :Line-1747 
+old content :Line-1747 Customer stories
+
+new content :Line-1749 The ReadME Project
+old content :Line-1749 
+
+new content :Line-1750 
+old content :Line-1750 The ReadME Project
+
+new content :Line-1752 Pricing
+old content :Line-1752 
+
+new content :Line-1753 
+old content :Line-1753 Pricing
+
+new content :Line-1755 Resources
+old content :Line-1755 
+
+new content :Line-1756 
+old content :Line-1756 Resources
+
+new content :Line-1758 Roadmap
+old content :Line-1758 
+
+new content :Line-1759 
+old content :Line-1759 Roadmap
+
+new content :Line-1764           Platform
+old content :Line-1764 
+
+new content :Line-1765 
+old content :Line-1765           Platform
+
+new content :Line-1768 Developer API
+old content :Line-1768 
+
+new content :Line-1769 
+old content :Line-1769 Developer API
+
+new content :Line-1771 Partners
+old content :Line-1771 
+
+new content :Line-1772 
+old content :Line-1772 Partners
+
+new content :Line-1774 Atom
+old content :Line-1774 
+
+new content :Line-1775 
+old content :Line-1775 Atom
+
+new content :Line-1777 Electron
+old content :Line-1777 
+
+new content :Line-1778 
+old content :Line-1778 Electron
+
+new content :Line-1780 GitHub Desktop
+old content :Line-1780 
+
+new content :Line-1781 
+old content :Line-1781 GitHub Desktop
+
+new content :Line-1786           Support
+old content :Line-1786 
+
+new content :Line-1787 
+old content :Line-1787           Support
+
+new content :Line-1790 Docs
+old content :Line-1790 
+
+new content :Line-1791 
+old content :Line-1791 Docs
+
+new content :Line-1793 Community Forum
+old content :Line-1793 
+
+new content :Line-1794 
+old content :Line-1794 Community Forum
+
+new content :Line-1796 Professional Services
+old content :Line-1796 
+
+new content :Line-1797 
+old content :Line-1797 Professional Services
+
+new content :Line-1799 Learning Lab
+old content :Line-1799 
+
+new content :Line-1800 
+old content :Line-1800 Learning Lab
+
+new content :Line-1802 Status
+old content :Line-1802 
+
+new content :Line-1803 
+old content :Line-1803 Status
+
+new content :Line-1805 Contact GitHub
+old content :Line-1805 
+
+new content :Line-1806 
+old content :Line-1806 Contact GitHub
+
+new content :Line-1811           Company
+old content :Line-1811 
+
+new content :Line-1812 
+old content :Line-1812           Company
+
+new content :Line-1815 About
+old content :Line-1815 
+
+new content :Line-1816 
+old content :Line-1816 About
+
+new content :Line-1818 Blog
+old content :Line-1818 
+
+new content :Line-1819 
+old content :Line-1819 Blog
+
+new content :Line-1821 Careers
+old content :Line-1821 
+
+new content :Line-1822 
+old content :Line-1822 Careers
+
+new content :Line-1824 Press
+old content :Line-1824 
+
+new content :Line-1825 
+old content :Line-1825 Press
+
+new content :Line-1827 Inclusion
+old content :Line-1827 
+
+new content :Line-1828 
+old content :Line-1828 Inclusion
+
+new content :Line-1830 Social Impact
+old content :Line-1830 
+
+new content :Line-1831 
+old content :Line-1831 Social Impact
+
+new content :Line-1833 Shop
+old content :Line-1833 
+
+new content :Line-1834 
+old content :Line-1834 Shop
+
+new content :Line-1845 GitHub on Twitter
+old content :Line-1845 
+
+new content :Line-1846 
+old content :Line-1846 GitHub on Twitter
+
+new content :Line-1851 GitHub on Facebook
+old content :Line-1851 
+
+new content :Line-1852 
+old content :Line-1852 GitHub on Facebook
+
+new content :Line-1857 GitHub on YouTube
+old content :Line-1857 
+
+new content :Line-1858 
+old content :Line-1858 GitHub on YouTube
+
+new content :Line-1863 GitHub on LinkedIn
+old content :Line-1863 
+
+new content :Line-1864 
+old content :Line-1864 GitHub on LinkedIn
+
+new content :Line-1869 GitHubs organization on GitHub
+old content :Line-1869 
+
+new content :Line-1870 
+old content :Line-1870 GitHubs organization on GitHub
+
+new content :Line-1875            2022 GitHub, Inc.
+old content :Line-1875 
+
+new content :Line-1876 
+old content :Line-1876            2022 GitHub, Inc.
+
+new content :Line-1878 Terms
+old content :Line-1878 
+
+new content :Line-1879 
+old content :Line-1879 Terms
+
+new content :Line-1881 Privacy
+old content :Line-1881 
+
+new content :Line-1882 
+old content :Line-1882 Privacy
+
+new content :Line-1884 Site Map
+old content :Line-1884 
+
+new content :Line-1885 
+old content :Line-1885 Site Map
+
+new content :Line-1887 What is Git?
+old content :Line-1887 
+
+new content :Line-1888 
+old content :Line-1888 What is Git?
+
+new content :Line-1902     You cant perform that action at this time.
+old content :Line-1902 
+
+new content :Line-1903 
+old content :Line-1903     You cant perform that action at this time.
+
+new content :Line-1908 You signed in with another tab or window. Reload to refresh your session.
+old content :Line-1908 
+
+new content :Line-1909 You signed out in another tab or window. Reload to refresh your session.
+old content :Line-1909 You signed in with another tab or window. Reload to refresh your session.
+
+new content :Line-1910 
+old content :Line-1910 You signed out in another tab or window. Reload to refresh your session.
+
+******
+13:19
+******
+Checking http://www.google.com
+Checked http://www.google.com
+----------------
+Checking https://github.com/
+Checked https://github.com/
+----------------
+
+COMPARING FILES
+Datas\Pages\github.com_.new
+Datas\Pages\github.com_.old
+
+new content :Line-1 Date-Time:2022-04-26 13:19
+old content :Line-1 Date-Time:2022-04-26 13:18
+
+new content :Line-2 PageHash:===>f4b3b7a4efdce9fc309f8571aed6e70f<===
+old content :Line-2 PageHash:===>3edac3faaa94b13297589e32e2323528<===
+
+new content :Line-42 
+old content :Line-42 GitHub: Where the world builds software  GitHub
+
+new content :Line-43 GitHub: Where the world builds software  GitHub
+old content :Line-43 
+
+new content :Line-88 
+old content :Line-88 Skip to content
+
+new content :Line-89 Skip to content
+old content :Line-89 
+
+new content :Line-104 
+old content :Line-104               Signup
+
+new content :Line-105               Signup
+old content :Line-105 
+
+new content :Line-122 
+old content :Line-122         Product
+
+new content :Line-123         Product
+old content :Line-123 
+
+new content :Line-129 
+old content :Line-129       Features
+
+new content :Line-130       Features
+old content :Line-130 
+
+new content :Line-133 
+old content :Line-133       Mobile
+
+new content :Line-134       Mobile
+old content :Line-134 
+
+new content :Line-137 
+old content :Line-137       Actions
+
+new content :Line-138       Actions
+old content :Line-138 
+
+new content :Line-141 
+old content :Line-141       Codespaces
+
+new content :Line-142       Codespaces
+old content :Line-142 
+
+new content :Line-145 
+old content :Line-145       Packages
+
+new content :Line-146       Packages
+old content :Line-146 
+
+new content :Line-149 
+old content :Line-149       Security
+
+new content :Line-150       Security
+old content :Line-150 
+
+new content :Line-153 
+old content :Line-153       Code review
+
+new content :Line-154       Code review
+old content :Line-154 
+
+new content :Line-157 
+old content :Line-157       Issues
+
+new content :Line-158       Issues
+old content :Line-158 
+
+new content :Line-161 
+old content :Line-161       Integrations
+
+new content :Line-162       Integrations
+old content :Line-162 
+
+new content :Line-165 
+old content :Line-165       GitHub Sponsors
+
+new content :Line-166       GitHub Sponsors
+old content :Line-166 
+
+new content :Line-169 
+old content :Line-169       Customer stories
+
+new content :Line-170       Customer stories
+old content :Line-170 
+
+new content :Line-176 
+old content :Line-176 Team
+
+new content :Line-177 Team
+old content :Line-177 
+
+new content :Line-179 
+old content :Line-179 Enterprise
+
+new content :Line-180 Enterprise
+old content :Line-180 
+
+new content :Line-184 
+old content :Line-184         Explore
+
+new content :Line-185         Explore
+old content :Line-185 
+
+new content :Line-191 
+old content :Line-191       Explore GitHub
+
+new content :Line-192       Explore GitHub
+old content :Line-192 
+
+new content :Line-193 
+old content :Line-193 Learn and contribute
+
+new content :Line-194 Learn and contribute
+old content :Line-194 
+
+new content :Line-196 
+old content :Line-196       Topics
+
+new content :Line-197       Topics
+old content :Line-197 
+
+new content :Line-200 
+old content :Line-200       Collections
+
+new content :Line-201       Collections
+old content :Line-201 
+
+new content :Line-204 
+old content :Line-204       Trending
+
+new content :Line-205       Trending
+old content :Line-205 
+
+new content :Line-208 
+old content :Line-208       Learning Lab
+
+new content :Line-209       Learning Lab
+old content :Line-209 
+
+new content :Line-212 
+old content :Line-212       Open source guides
+
+new content :Line-213       Open source guides
+old content :Line-213 
+
+new content :Line-214 
+old content :Line-214 Connect with others
+
+new content :Line-215 Connect with others
+old content :Line-215 
+
+new content :Line-217 
+old content :Line-217       The ReadME Project
+
+new content :Line-218       The ReadME Project
+old content :Line-218 
+
+new content :Line-221 
+old content :Line-221       Events
+
+new content :Line-222       Events
+old content :Line-222 
+
+new content :Line-225 
+old content :Line-225       Community forum
+
+new content :Line-226       Community forum
+old content :Line-226 
+
+new content :Line-229 
+old content :Line-229       GitHub Education
+
+new content :Line-230       GitHub Education
+old content :Line-230 
+
+new content :Line-233 
+old content :Line-233       GitHub Stars program
+
+new content :Line-234       GitHub Stars program
+old content :Line-234 
+
+new content :Line-240 
+old content :Line-240 Marketplace
+
+new content :Line-241 Marketplace
+old content :Line-241 
+
+new content :Line-245 
+old content :Line-245         Pricing
+
+new content :Line-246         Pricing
+old content :Line-246 
+
+new content :Line-252 
+old content :Line-252       Plans
+
+new content :Line-253       Plans
+old content :Line-253 
+
+new content :Line-256 
+old content :Line-256       Compare plans
+
+new content :Line-257       Compare plans
+old content :Line-257 
+
+new content :Line-260 
+old content :Line-260       Contact Sales
+
+new content :Line-261       Contact Sales
+old content :Line-261 
+
+new content :Line-264 
+old content :Line-264       Education
+
+new content :Line-265       Education
+old content :Line-265 
+
+new content :Line-302 
+old content :Line-302         Search
+
+new content :Line-303         Search
+old content :Line-303 
+
+new content :Line-305 
+old content :Line-305         All GitHub
+
+new content :Line-306         All GitHub
+old content :Line-306 
+
+new content :Line-310 
+old content :Line-310       Jump to
+
+new content :Line-311       Jump to
+old content :Line-311 
+
+new content :Line-318 
+old content :Line-318 No suggested jump to results
+
+new content :Line-319 No suggested jump to results
+old content :Line-319 
+
+new content :Line-340 
+old content :Line-340         Search
+
+new content :Line-341         Search
+old content :Line-341 
+
+new content :Line-343 
+old content :Line-343         All GitHub
+
+new content :Line-344         All GitHub
+old content :Line-344 
+
+new content :Line-348 
+old content :Line-348       Jump to
+
+new content :Line-349       Jump to
+old content :Line-349 
+
+new content :Line-371 
+old content :Line-371         Search
+
+new content :Line-372         Search
+old content :Line-372 
+
+new content :Line-374 
+old content :Line-374         All GitHub
+
+new content :Line-375         All GitHub
+old content :Line-375 
+
+new content :Line-379 
+old content :Line-379       Jump to
+
+new content :Line-380       Jump to
+old content :Line-380 
+
+new content :Line-402 
+old content :Line-402         Search
+
+new content :Line-403         Search
+old content :Line-403 
+
+new content :Line-405 
+old content :Line-405         All GitHub
+
+new content :Line-406         All GitHub
+old content :Line-406 
+
+new content :Line-410 
+old content :Line-410       Jump to
+
+new content :Line-411       Jump to
+old content :Line-411 
+
+new content :Line-423 
+old content :Line-423             Sign in
+
+new content :Line-424             Sign in
+old content :Line-424 
+
+new content :Line-427 
+old content :Line-427             Sign up
+
+new content :Line-428             Sign up
+old content :Line-428 
+
+new content :Line-447 
+old content :Line-447  Where the world builds software
+
+new content :Line-448  Where the world builds software
+old content :Line-448 Millions of developers and companies build, ship, and maintain their software on GitHubthe largest and most advanced development platform in the world.
+
+new content :Line-449 Millions of developers and companies build, ship, and maintain their software on GitHubthe largest and most advanced development platform in the world.
+old content :Line-449 
+
+new content :Line-452 
+old content :Line-452 Email address
+
+new content :Line-453 Email address
+old content :Line-453 
+
+new content :Line-460 
+old content :Line-460   Sign up for GitHub
+
+new content :Line-461   Sign up for GitHub
+old content :Line-461 
+
+new content :Line-471 
+old content :Line-471 73+ million
+
+new content :Line-472 73+ million
+old content :Line-472 Developers
+
+new content :Line-473 Developers
+old content :Line-473 
+
+new content :Line-475 
+old content :Line-475 4+ million
+
+new content :Line-476 4+ million
+old content :Line-476 Organizations
+
+new content :Line-477 Organizations
+old content :Line-477 
+
+new content :Line-479 
+old content :Line-479 200+ million
+
+new content :Line-480 200+ million
+old content :Line-480 Repositories
+
+new content :Line-481 Repositories
+old content :Line-481 
+
+new content :Line-483 
+old content :Line-483 84%
+
+new content :Line-484 84%
+old content :Line-484 Fortune 100
+
+new content :Line-485 Fortune 100
+old content :Line-485 
+
+new content :Line-533 
+old content :Line-533 Build like the best with GitHub Enterprise
+
+new content :Line-534 Build like the best with GitHub Enterprise
+old content :Line-534 Take collaboration to the next level with security and administrative features built for teams.
+
+new content :Line-535 Take collaboration to the next level with security and administrative features built for teams.
+old content :Line-535 
+
+new content :Line-537 
+old content :Line-537   Start a free trial
+
+new content :Line-538   Start a free trial
+old content :Line-538 
+
+new content :Line-542 
+old content :Line-542   Contact Sales
+
+new content :Line-543   Contact Sales
+old content :Line-543 
+
+new content :Line-571 
+old content :Line-571 Code
+
+new content :Line-572 Code
+old content :Line-572 Collaborate
+
+new content :Line-573 Collaborate
+old content :Line-573 Develop
+
+new content :Line-574 Develop
+old content :Line-574 Automate
+
+new content :Line-575 Automate
+old content :Line-575 Secure
+
+new content :Line-576 Secure
+old content :Line-576 Community
+
+new content :Line-577 Community
+old content :Line-577 
+
+new content :Line-580 
+old content :Line-580   Sign up
+
+new content :Line-581   Sign up
+old content :Line-581 
+
+new content :Line-595 
+old content :Line-595 Give your code a home in the cloud
+
+new content :Line-596 Give your code a home in the cloud
+old content :Line-596 
+
+new content :Line-602 
+old content :Line-602 Record or rewind any change to your code to keep you and your team in sync. Host it all for free with unlimited public and private repositories.
+
+new content :Line-603 Record or rewind any change to your code to keep you and your team in sync. Host it all for free with unlimited public and private repositories.
+old content :Line-603 
+
+new content :Line-604 
+old content :Line-604   Sign up for GitHub
+
+new content :Line-605   Sign up for GitHub
+old content :Line-605 
+
+new content :Line-609 
+old content :Line-609 jasonetco added some commits 8 minutes ago
+
+new content :Line-610 jasonetco added some commits 8 minutes ago
+old content :Line-610 
+
+new content :Line-614 
+old content :Line-614 Updated README.md
+
+new content :Line-615 Updated README.md
+old content :Line-615 
+
+new content :Line-633 
+old content :Line-633 octocat-classifier
+
+new content :Line-634 octocat-classifier
+old content :Line-634 
+
+new content :Line-637 
+old content :Line-637 assets
+
+new content :Line-638 assets
+old content :Line-638 
+
+new content :Line-641 
+old content :Line-641 tests
+
+new content :Line-642 tests
+old content :Line-642 
+
+new content :Line-645 
+old content :Line-645 LICENSE
+
+new content :Line-646 LICENSE
+old content :Line-646 
+
+new content :Line-649 
+old content :Line-649 README.md
+
+new content :Line-650 README.md
+old content :Line-650 
+
+new content :Line-653 
+old content :Line-653 index.js
+
+new content :Line-654 index.js
+old content :Line-654 
+
+new content :Line-657 
+old content :Line-657 package.json
+
+new content :Line-658 package.json
+old content :Line-658 
+
+new content :Line-665 
+old content :Line-665 README.md
+
+new content :Line-666 README.md
+old content :Line-666 
+
+new content :Line-669 
+old content :Line-669 app.js
+
+new content :Line-670 app.js
+old content :Line-670 
+
+new content :Line-673 
+old content :Line-673 index.html
+
+new content :Line-674 index.html
+old content :Line-674 
+
+new content :Line-679 
+old content :Line-679           1
+
+new content :Line-680           1
+old content :Line-680           2
+
+new content :Line-681           2
+old content :Line-681           3
+
+new content :Line-682           3
+old content :Line-682           4
+
+new content :Line-683           4
+old content :Line-683           5
+
+new content :Line-684           5
+old content :Line-684           6
+
+new content :Line-685           6
+old content :Line-685           7
+
+new content :Line-686           7
+old content :Line-686           8
+
+new content :Line-687           8
+old content :Line-687           9
+
+new content :Line-688           9
+old content :Line-688           10
+
+new content :Line-689           10
+old content :Line-689           11
+
+new content :Line-690           11
+old content :Line-690           12
+
+new content :Line-691           12
+old content :Line-691           13
+
+new content :Line-692           13
+old content :Line-692           14
+
+new content :Line-693           14
+old content :Line-693           15
+
+new content :Line-694           15
+old content :Line-694           16
+
+new content :Line-695           16
+old content :Line-695           17
+
+new content :Line-696           17
+old content :Line-696           18
+
+new content :Line-697           18
+old content :Line-697           19
+
+new content :Line-698           19
+old content :Line-698           20
+
+new content :Line-699           20
+old content :Line-699           21
+
+new content :Line-700           21
+old content :Line-700           22
+
+new content :Line-701           22
+old content :Line-701           23
+
+new content :Line-702           23
+old content :Line-702           24
+
+new content :Line-703           24
+old content :Line-703           25
+
+new content :Line-704           25
+old content :Line-704           26
+
+new content :Line-705           26
+old content :Line-705           27
+
+new content :Line-706           27
+old content :Line-706           28
+
+new content :Line-707           28
+old content :Line-707           29
+
+new content :Line-708           29
+old content :Line-708           30
+
+new content :Line-709           30
+old content :Line-709 
+
+new content :Line-712 
+old content :Line-712               # Octocat Classifier :octopus: :cat: :mag:
+
+new content :Line-713               # Octocat Classifier :octopus: :cat: :mag:
+old content :Line-713 
+
+new content :Line-714 
+old content :Line-714               ![](https://img.shields.io/badge/build-passing-brightgreen) ![](https://img.shields.io/badge/coverage-90%25-green) ![](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)
+
+new content :Line-715               ![](https://img.shields.io/badge/build-passing-brightgreen) ![](https://img.shields.io/badge/coverage-90%25-green) ![](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)
+old content :Line-715 
+
+new content :Line-716 
+old content :Line-716               As the name suggests, Octocat Classifier is used to determine whether a given image contains an Octocat. It is trained with images from the [Octodex](1), images shared with [#MyOctocat on Twitter](2), and [photographs of laptops with :octocat: stickers on them]().
+
+new content :Line-717               As the name suggests, Octocat Classifier is used to determine whether a given image contains an Octocat. It is trained with images from the [Octodex](1), images shared with [#MyOctocat on Twitter](2), and [photographs of laptops with :octocat: stickers on them]().
+old content :Line-717 
+
+new content :Line-718 
+old content :Line-718               ## Installation
+
+new content :Line-719               ## Installation
+old content :Line-719 
+
+new content :Line-720 
+old content :Line-720               ```
+
+new content :Line-721               ```
+old content :Line-721               git clone https://github.com/jasonetco/octocat-classifier
+
+new content :Line-722               git clone https://github.com/jasonetco/octocat-classifier
+old content :Line-722               ```
+
+new content :Line-723               ```
+old content :Line-723 
+
+new content :Line-733 
+old content :Line-733 ~/octocat-classifier
+
+new content :Line-734 ~/octocat-classifier
+old content :Line-734 $ gh repo create octocat-classifier
+
+new content :Line-735 $ gh repo create octocat-classifier
+old content :Line-735 
+
+new content :Line-737 
+old content :Line-737  Created repository jasonetco/octocat-classifier on GitHub
+
+new content :Line-738  Created repository jasonetco/octocat-classifier on GitHub
+old content :Line-738 
+
+new content :Line-740 
+old content :Line-740  Added remote https://github.com/jasonetco/octocat-classifier.git
+
+new content :Line-741  Added remote https://github.com/jasonetco/octocat-classifier.git
+old content :Line-741 
+
+new content :Line-747 
+old content :Line-747 ~/octocat-classifier
+
+new content :Line-748 ~/octocat-classifier
+old content :Line-748 $ git push origin main
+
+new content :Line-749 $ git push origin main
+old content :Line-749 
+
+new content :Line-764 
+old content :Line-764 Support Octocats shared on Twitter
+
+new content :Line-765 Support Octocats shared on Twitter
+old content :Line-765 
+
+new content :Line-769 
+old content :Line-769 Created index.js
+
+new content :Line-770 Created index.js
+old content :Line-770 
+
+new content :Line-774 
+old content :Line-774  Build on what's been built
+
+new content :Line-775  Build on what's been built
+old content :Line-775 
+
+new content :Line-776 
+old content :Line-776 Write less code thanks to the world's largest software package registry.
+
+new content :Line-777 Write less code thanks to the world's largest software package registry.
+old content :Line-777                   Find the best community-approved projects to accelerate your work, then share it with the world with npm and GitHub Packages.
+
+new content :Line-778                   Find the best community-approved projects to accelerate your work, then share it with the world with npm and GitHub Packages.
+old content :Line-778 
+
+new content :Line-786 
+old content :Line-786 ~/octocat-classifier
+
+new content :Line-787 ~/octocat-classifier
+old content :Line-787 $ npm install eslint
+
+new content :Line-788 $ npm install eslint
+old content :Line-788 
+
+new content :Line-790 
+old content :Line-790 + eslint@7.8.1
+
+new content :Line-791 + eslint@7.8.1
+old content :Line-791 
+
+new content :Line-793 
+old content :Line-793 added 109 packages from 64 contributors and audited 109 packages in 3.491s
+
+new content :Line-794 added 109 packages from 64 contributors and audited 109 packages in 3.491s
+old content :Line-794 
+
+new content :Line-799 
+old content :Line-799 9 packages are looking for funding
+
+new content :Line-800 9 packages are looking for funding
+old content :Line-800 
+
+new content :Line-802 
+old content :Line-802 run `npm fund` for details
+
+new content :Line-803 run `npm fund` for details
+old content :Line-803 
+
+new content :Line-808 
+old content :Line-808 found 0 vulnerabilities
+
+new content :Line-809 found 0 vulnerabilities
+old content :Line-809 
+
+new content :Line-812 
+old content :Line-812 ~/octocat-classifier
+
+new content :Line-813 ~/octocat-classifier
+old content :Line-813 $
+
+new content :Line-814 $
+old content :Line-814 
+
+new content :Line-824 
+old content :Line-824 Added package for javascript linting
+
+new content :Line-825 Added package for javascript linting
+old content :Line-825 
+
+new content :Line-841 
+old content :Line-841               git checkout -b origin add-status-screens
+
+new content :Line-842               git checkout -b origin add-status-screens
+old content :Line-842 
+
+new content :Line-853 
+old content :Line-853 origin/add-status-screens
+
+new content :Line-854 origin/add-status-screens
+old content :Line-854 
+
+new content :Line-863 
+old content :Line-863 +3 collaborators
+
+new content :Line-864 +3 collaborators
+old content :Line-864 
+
+new content :Line-865 
+old content :Line-865 Ready player two. Scale your team to any size in the cloud.
+
+new content :Line-866 Ready player two. Scale your team to any size in the cloud.
+old content :Line-866 
+
+new content :Line-867 
+old content :Line-867   Create a new organization for free
+
+new content :Line-868   Create a new organization for free
+old content :Line-868 
+
+new content :Line-887 
+old content :Line-887  Better code starts with pull requestsconversations around your code where you can experiment, squash bugs, and build new features.
+
+new content :Line-888  Better code starts with pull requestsconversations around your code where you can experiment, squash bugs, and build new features.
+old content :Line-888 
+
+new content :Line-903 
+old content :Line-903 Code review is built in. Pull requests cover the entire review flow: propose changes, browse code, ask for input, make a suggestion, and sign off in one place.
+
+new content :Line-904 Code review is built in. Pull requests cover the entire review flow: propose changes, browse code, ask for input, make a suggestion, and sign off in one place.
+old content :Line-904 
+
+new content :Line-919 
+old content :Line-919  Know when your pull request is ready to merge when everythings green. Reviews approved? Check. Tests passing? Check check. No conflicts? Ship it already.
+
+new content :Line-920  Know when your pull request is ready to merge when everythings green. Reviews approved? Check. Tests passing? Check check. No conflicts? Ship it already.
+old content :Line-920 
+
+new content :Line-933 
+old content :Line-933 git merge add-status-screens
+
+new content :Line-934 git merge add-status-screens
+old content :Line-934 
+
+new content :Line-956 
+old content :Line-956 Keep work moving.
+
+new content :Line-957 Keep work moving.
+old content :Line-957                     Review or merge code, manage notifications, browse repositories, and more with GitHub Mobile.
+
+new content :Line-958                     Review or merge code, manage notifications, browse repositories, and more with GitHub Mobile.
+old content :Line-958 
+
+new content :Line-959 
+old content :Line-959 Available for iOS and Android
+
+new content :Line-960 Available for iOS and Android
+old content :Line-960 
+
+new content :Line-992 
+old content :Line-992           bash
+
+new content :Line-993           bash
+old content :Line-993 
+
+new content :Line-998 
+old content :Line-998 ~/
+
+new content :Line-999 ~/
+old content :Line-999 $ gh pr status
+
+new content :Line-1000 $ gh pr status
+old content :Line-1000 
+
+new content :Line-1002 
+old content :Line-1002 Relevant pull requests in cli/cli
+
+new content :Line-1003 Relevant pull requests in cli/cli
+old content :Line-1003 
+
+new content :Line-1008 
+old content :Line-1008 Current branch
+
+new content :Line-1009 Current branch
+old content :Line-1009 
+
+new content :Line-1011 
+old content :Line-1011 There is no pull request associated with [main]
+
+new content :Line-1012 There is no pull request associated with [main]
+old content :Line-1012 
+
+new content :Line-1017 
+old content :Line-1017 Created by you
+
+new content :Line-1018 Created by you
+old content :Line-1018 
+
+new content :Line-1020 
+old content :Line-1020 You have no open pull requests
+
+new content :Line-1021 You have no open pull requests
+old content :Line-1021 
+
+new content :Line-1026 
+old content :Line-1026 Requesting a code review from you
+
+new content :Line-1027 Requesting a code review from you
+old content :Line-1027 
+
+new content :Line-1029 
+old content :Line-1029 #1401 Correctly handle and set empty fields...
+
+new content :Line-1030 #1401 Correctly handle and set empty fields...
+old content :Line-1030 
+
+new content :Line-1032 
+old content :Line-1032 [octocat:emptyBody]
+
+new content :Line-1033 [octocat:emptyBody]
+old content :Line-1033 
+
+new content :Line-1035 
+old content :Line-1035  Checks passing
+
+new content :Line-1036  Checks passing
+old content :Line-1036 
+
+new content :Line-1038 
+old content :Line-1038 #1357 Added confirmation steps for risk...
+
+new content :Line-1039 #1357 Added confirmation steps for risk...
+old content :Line-1039 
+
+new content :Line-1041 
+old content :Line-1041 [octocat:confirmations]
+
+new content :Line-1042 [octocat:confirmations]
+old content :Line-1042 
+
+new content :Line-1044 
+old content :Line-1044 x 1/3 checks failing
+
+new content :Line-1045 x 1/3 checks failing
+old content :Line-1045 
+
+new content :Line-1048 
+old content :Line-1048 ~/
+
+new content :Line-1049 ~/
+old content :Line-1049 $
+
+new content :Line-1050 $
+old content :Line-1050 
+
+new content :Line-1056 
+old content :Line-1056 Work however you want.
+
+new content :Line-1057 Work however you want.
+old content :Line-1057                     Put a GUI on it with GitHub Desktop or stay in the command line with GitHub CLI.
+
+new content :Line-1058                     Put a GUI on it with GitHub Desktop or stay in the command line with GitHub CLI.
+old content :Line-1058 
+
+new content :Line-1059 
+old content :Line-1059 Available for macOS, Windows, and Linux*
+
+new content :Line-1060 Available for macOS, Windows, and Linux*
+old content :Line-1060 
+
+new content :Line-1065 
+old content :Line-1065 * GitHub CLI is available on macOS, Windows, and Linux* GitHub Desktop is available on macOS and Windows
+
+new content :Line-1066 * GitHub CLI is available on macOS, Windows, and Linux* GitHub Desktop is available on macOS and Windows
+old content :Line-1066 
+
+new content :Line-1087 
+old content :Line-1087 Blazing fast cloud developer environments with Codespaces
+
+new content :Line-1088 Blazing fast cloud developer environments with Codespaces
+old content :Line-1088 
+
+new content :Line-1089 
+old content :Line-1089   Learn more about GitHub Codespaces
+
+new content :Line-1090   Learn more about GitHub Codespaces
+old content :Line-1090 
+
+new content :Line-1095 
+old content :Line-1095 The future of code is in the cloud, not your local copy. Codespaces gives you a complete, configurable dev environment on top of a powerful VM in minutes.
+
+new content :Line-1096 The future of code is in the cloud, not your local copy. Codespaces gives you a complete, configurable dev environment on top of a powerful VM in minutes.
+old content :Line-1096 
+
+new content :Line-1100 
+old content :Line-1100 Visual Studio Code, in your browser, full stop. Codespaces brings the worlds most popular desktop editor to every repo. Code, build, test, use the terminal, and open pull requests from anywhere.
+
+new content :Line-1101 Visual Studio Code, in your browser, full stop. Codespaces brings the worlds most popular desktop editor to every repo. Code, build, test, use the terminal, and open pull requests from anywhere.
+old content :Line-1101 
+
+new content :Line-1104 
+old content :Line-1104 Customize to your hearts desire. Add your favorite VS Code extensions, create a devcontainer config file, install new themes, and tweak your settings.
+
+new content :Line-1105 Customize to your hearts desire. Add your favorite VS Code extensions, create a devcontainer config file, install new themes, and tweak your settings.
+old content :Line-1105 
+
+new content :Line-1146 
+old content :Line-1146  Automate anything with GitHub Actions
+
+new content :Line-1147  Automate anything with GitHub Actions
+old content :Line-1147 
+
+new content :Line-1148 
+old content :Line-1148   Learn more about GitHub Actions
+
+new content :Line-1149   Learn more about GitHub Actions
+old content :Line-1149 
+
+new content :Line-1155 
+old content :Line-1155 Setup CI/CD, enhance your DevOps, and script your entire workflow with GitHub Actions. Kick off automated workflows with GitHub events like push, issue creation, merge, and release.
+
+new content :Line-1156 Setup CI/CD, enhance your DevOps, and script your entire workflow with GitHub Actions. Kick off automated workflows with GitHub events like push, issue creation, merge, and release.
+old content :Line-1156 
+
+new content :Line-1175 
+old content :Line-1175 11,000+ Actions
+
+new content :Line-1176 11,000+ Actions
+old content :Line-1176 Write your own, or import Actions from the open source community, all within our world-class editor. Feeling stuck? Browse the Actions developer docs as you code.
+
+new content :Line-1177 Write your own, or import Actions from the open source community, all within our world-class editor. Feeling stuck? Browse the Actions developer docs as you code.
+old content :Line-1177 
+
+new content :Line-1178 
+old content :Line-1178   Explore the Actions Marketplace
+
+new content :Line-1179   Explore the Actions Marketplace
+old content :Line-1179 
+
+new content :Line-1208 
+old content :Line-1208 You can have it all. Run actions in any language or operating system, on Linux, macOS, Windows, ARM, and containers. Or all at once with matrix builds.
+
+new content :Line-1209 You can have it all. Run actions in any language or operating system, on Linux, macOS, Windows, ARM, and containers. Or all at once with matrix builds.
+old content :Line-1209 
+
+new content :Line-1287 
+old content :Line-1287 With 70 million jobs run per month youre in good company with Actions, the number one CI service on the worlds largest developer platform.
+
+new content :Line-1288 With 70 million jobs run per month youre in good company with Actions, the number one CI service on the worlds largest developer platform.
+old content :Line-1288 
+
+new content :Line-1294 
+old content :Line-1294 Speaking of automation, Dependabot keeps your projects up to date with automated pull requests that update all your dependencies. Just review and merge to keep your software secure.
+
+new content :Line-1295 Speaking of automation, Dependabot keeps your projects up to date with automated pull requests that update all your dependencies. Just review and merge to keep your software secure.
+old content :Line-1295 
+
+new content :Line-1296 
+old content :Line-1296   Learn more about Dependabot
+
+new content :Line-1297   Learn more about Dependabot
+old content :Line-1297 
+
+new content :Line-1335 
+old content :Line-1335 Find and fix vulnerabilities  before you merge
+
+new content :Line-1336 Find and fix vulnerabilities  before you merge
+old content :Line-1336 
+
+new content :Line-1337 
+old content :Line-1337   Learn more about advanced security
+
+new content :Line-1338   Learn more about advanced security
+old content :Line-1338 
+
+new content :Line-1347 
+old content :Line-1347 Secure your code as you write it. CodeQLs code scanning automatically reviews every change to your codebase and identifies known vulnerabilities before they ever reach production.
+
+new content :Line-1348 Secure your code as you write it. CodeQLs code scanning automatically reviews every change to your codebase and identifies known vulnerabilities before they ever reach production.
+old content :Line-1348 
+
+new content :Line-1379 
+old content :Line-1379 Vulnerabilities found
+
+new content :Line-1380 Vulnerabilities found
+old content :Line-1380 
+
+new content :Line-1384 
+old content :Line-1384 Fixed deserialized data security vulnerability
+
+new content :Line-1385 Fixed deserialized data security vulnerability
+old content :Line-1385 
+
+new content :Line-1390 
+old content :Line-1390 Keep your secrets. We automatically scan repositories for OAuth tokens, API keys, personal tokens, and more. If we find one, well notify you and the partner that issued it to invalidate the secret.
+
+new content :Line-1391 Keep your secrets. We automatically scan repositories for OAuth tokens, API keys, personal tokens, and more. If we find one, well notify you and the partner that issued it to invalidate the secret.
+old content :Line-1391 
+
+new content :Line-1408 
+old content :Line-1408 OAuth token found
+
+new content :Line-1409 OAuth token found
+old content :Line-1409 
+
+new content :Line-1413 
+old content :Line-1413 Replaced OAuth token with a key vault value
+
+new content :Line-1414 Replaced OAuth token with a key vault value
+old content :Line-1414 
+
+new content :Line-1427 
+old content :Line-1427 Found a vulnerability? Our security advisory remediation tools help developers identify and disclose them responsibly so maintainers can patch them in dedicated, private workspaces.
+
+new content :Line-1428 Found a vulnerability? Our security advisory remediation tools help developers identify and disclose them responsibly so maintainers can patch them in dedicated, private workspaces.
+old content :Line-1428 
+
+new content :Line-1445 
+old content :Line-1445 The home for all developers  including you
+
+new content :Line-1446 The home for all developers  including you
+old content :Line-1446 
+
+new content :Line-1455 
+old content :Line-1455 GitHub Discussions is dedicated space for your community to come together, ask and answer questions, and have open-ended conversations.
+
+new content :Line-1456 GitHub Discussions is dedicated space for your community to come together, ask and answer questions, and have open-ended conversations.
+old content :Line-1456 
+
+new content :Line-1458 
+old content :Line-1458   Learn how to get started with Discussions
+
+new content :Line-1459   Learn how to get started with Discussions
+old content :Line-1459 
+
+new content :Line-1490 
+old content :Line-1490  Amplify your voice in your own personal README on your profile.
+
+new content :Line-1491  Amplify your voice in your own personal README on your profile.
+old content :Line-1491                     Tell the story of your work through your repositories, contributions, and technologies of choice.
+
+new content :Line-1492                     Tell the story of your work through your repositories, contributions, and technologies of choice.
+old content :Line-1492 
+
+new content :Line-1515 
+old content :Line-1515 sophshep started sponsoring you for $10/month 2x 3 days ago
+
+new content :Line-1516 sophshep started sponsoring you for $10/month 2x 3 days ago
+old content :Line-1516 
+
+new content :Line-1520 
+old content :Line-1520 joshaber started sponsoring you for $10/month 5x 2 days ago
+
+new content :Line-1521 joshaber started sponsoring you for $10/month 5x 2 days ago
+old content :Line-1521 
+
+new content :Line-1525 
+old content :Line-1525 pmarsceill started sponsoring you for $25/month 2 days ago
+
+new content :Line-1526 pmarsceill started sponsoring you for $25/month 2 days ago
+old content :Line-1526 
+
+new content :Line-1531 
+old content :Line-1531 That open source code you wrote for yourself might just help someone else. Get paid for building what matters to you with GitHub Sponsors.
+
+new content :Line-1532 That open source code you wrote for yourself might just help someone else. Get paid for building what matters to you with GitHub Sponsors.
+old content :Line-1532 Support the projects you depend on, too.
+
+new content :Line-1533 Support the projects you depend on, too.
+old content :Line-1533 100% to developers, zero fees
+
+new content :Line-1534 100% to developers, zero fees
+old content :Line-1534 
+
+new content :Line-1535 
+old content :Line-1535   Learn more about Sponsors
+
+new content :Line-1536   Learn more about Sponsors
+old content :Line-1536 
+
+new content :Line-1580 
+old content :Line-1580 Make your contribution
+
+new content :Line-1581 Make your contribution
+old content :Line-1581 Small experiments, inspired inventions, and the software everyone depends onthe code you write on GitHub can reach one codebase or millions.
+
+new content :Line-1582 Small experiments, inspired inventions, and the software everyone depends onthe code you write on GitHub can reach one codebase or millions.
+old content :Line-1582 
+
+new content :Line-1583 
+old content :Line-1583   Sign up for GitHub
+
+new content :Line-1584   Sign up for GitHub
+old content :Line-1584 
+
+new content :Line-1588 
+old content :Line-1588   Contact Sales
+
+new content :Line-1589   Contact Sales
+old content :Line-1589 
+
+new content :Line-1600 
+old content :Line-1600 tensorflow/tensorflow
+
+new content :Line-1601 tensorflow/tensorflow
+old content :Line-1601 
+
+new content :Line-1602 
+old content :Line-1602 An Open Source Machine Learning Framework for Everyone
+
+new content :Line-1603 An Open Source Machine Learning Framework for Everyone
+old content :Line-1603 
+
+new content :Line-1609 
+old content :Line-1609 gatsbyjs/gatsby
+
+new content :Line-1610 gatsbyjs/gatsby
+old content :Line-1610 
+
+new content :Line-1611 
+old content :Line-1611 Build blazing fast, modern apps and websites with React
+
+new content :Line-1612 Build blazing fast, modern apps and websites with React
+old content :Line-1612 
+
+new content :Line-1618 
+old content :Line-1618 home-assistant/core
+
+new content :Line-1619 home-assistant/core
+old content :Line-1619 
+
+new content :Line-1620 
+old content :Line-1620  Open source home automation that puts local control and privacy first
+
+new content :Line-1621  Open source home automation that puts local control and privacy first
+old content :Line-1621 
+
+new content :Line-1629 
+old content :Line-1629 rust-lang/rust
+
+new content :Line-1630 rust-lang/rust
+old content :Line-1630 
+
+new content :Line-1631 
+old content :Line-1631 Empowering everyone to build reliable and efficient software.
+
+new content :Line-1632 Empowering everyone to build reliable and efficient software.
+old content :Line-1632 
+
+new content :Line-1638 
+old content :Line-1638 flutter/flutter
+
+new content :Line-1639 flutter/flutter
+old content :Line-1639 
+
+new content :Line-1640 
+old content :Line-1640 Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+
+new content :Line-1641 Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+old content :Line-1641 
+
+new content :Line-1647 
+old content :Line-1647 kubernetes/kubernetes
+
+new content :Line-1648 kubernetes/kubernetes
+old content :Line-1648 
+
+new content :Line-1649 
+old content :Line-1649 Production-Grade Container Scheduling and Management
+
+new content :Line-1650 Production-Grade Container Scheduling and Management
+old content :Line-1650 
+
+new content :Line-1658 
+old content :Line-1658 apple/swift
+
+new content :Line-1659 apple/swift
+old content :Line-1659 
+
+new content :Line-1660 
+old content :Line-1660 The Swift Programming Language
+
+new content :Line-1661 The Swift Programming Language
+old content :Line-1661 
+
+new content :Line-1667 
+old content :Line-1667 ansible/ansible
+
+new content :Line-1668 ansible/ansible
+old content :Line-1668 
+
+new content :Line-1669 
+old content :Line-1669 Ansible is a radically simple IT automation platform.
+
+new content :Line-1670 Ansible is a radically simple IT automation platform.
+old content :Line-1670 
+
+new content :Line-1676 
+old content :Line-1676 hashicorp/terraform
+
+new content :Line-1677 hashicorp/terraform
+old content :Line-1677 
+
+new content :Line-1678 
+old content :Line-1678 Terraform enables you to safely and predictably create, change, and improve infrastructure.
+
+new content :Line-1679 Terraform enables you to safely and predictably create, change, and improve infrastructure.
+old content :Line-1679 
+
+new content :Line-1687 
+old content :Line-1687 ohmyzsh/ohmyzsh
+
+new content :Line-1688 ohmyzsh/ohmyzsh
+old content :Line-1688 
+
+new content :Line-1689 
+old content :Line-1689  A delightful community-driven framework for managing your zsh configuration.
+
+new content :Line-1690  A delightful community-driven framework for managing your zsh configuration.
+old content :Line-1690 
+
+new content :Line-1696 
+old content :Line-1696 facebook/react
+
+new content :Line-1697 facebook/react
+old content :Line-1697 
+
+new content :Line-1698 
+old content :Line-1698 A declarative, efficient, and flexible JavaScript library for building user interfaces.
+
+new content :Line-1699 A declarative, efficient, and flexible JavaScript library for building user interfaces.
+old content :Line-1699 
+
+new content :Line-1705 
+old content :Line-1705 npm/cli
+
+new content :Line-1706 npm/cli
+old content :Line-1706 
+
+new content :Line-1707 
+old content :Line-1707 The package manager for JavaScript
+
+new content :Line-1708 The package manager for JavaScript
+old content :Line-1708 
+
+new content :Line-1730 
+old content :Line-1730           Product
+
+new content :Line-1731           Product
+old content :Line-1731 
+
+new content :Line-1734 
+old content :Line-1734 Features
+
+new content :Line-1735 Features
+old content :Line-1735 
+
+new content :Line-1737 
+old content :Line-1737 Security
+
+new content :Line-1738 Security
+old content :Line-1738 
+
+new content :Line-1740 
+old content :Line-1740 Team
+
+new content :Line-1741 Team
+old content :Line-1741 
+
+new content :Line-1743 
+old content :Line-1743 Enterprise
+
+new content :Line-1744 Enterprise
+old content :Line-1744 
+
+new content :Line-1746 
+old content :Line-1746 Customer stories
+
+new content :Line-1747 Customer stories
+old content :Line-1747 
+
+new content :Line-1749 
+old content :Line-1749 The ReadME Project
+
+new content :Line-1750 The ReadME Project
+old content :Line-1750 
+
+new content :Line-1752 
+old content :Line-1752 Pricing
+
+new content :Line-1753 Pricing
+old content :Line-1753 
+
+new content :Line-1755 
+old content :Line-1755 Resources
+
+new content :Line-1756 Resources
+old content :Line-1756 
+
+new content :Line-1758 
+old content :Line-1758 Roadmap
+
+new content :Line-1759 Roadmap
+old content :Line-1759 
+
+new content :Line-1764 
+old content :Line-1764           Platform
+
+new content :Line-1765           Platform
+old content :Line-1765 
+
+new content :Line-1768 
+old content :Line-1768 Developer API
+
+new content :Line-1769 Developer API
+old content :Line-1769 
+
+new content :Line-1771 
+old content :Line-1771 Partners
+
+new content :Line-1772 Partners
+old content :Line-1772 
+
+new content :Line-1774 
+old content :Line-1774 Atom
+
+new content :Line-1775 Atom
+old content :Line-1775 
+
+new content :Line-1777 
+old content :Line-1777 Electron
+
+new content :Line-1778 Electron
+old content :Line-1778 
+
+new content :Line-1780 
+old content :Line-1780 GitHub Desktop
+
+new content :Line-1781 GitHub Desktop
+old content :Line-1781 
+
+new content :Line-1786 
+old content :Line-1786           Support
+
+new content :Line-1787           Support
+old content :Line-1787 
+
+new content :Line-1790 
+old content :Line-1790 Docs
+
+new content :Line-1791 Docs
+old content :Line-1791 
+
+new content :Line-1793 
+old content :Line-1793 Community Forum
+
+new content :Line-1794 Community Forum
+old content :Line-1794 
+
+new content :Line-1796 
+old content :Line-1796 Professional Services
+
+new content :Line-1797 Professional Services
+old content :Line-1797 
+
+new content :Line-1799 
+old content :Line-1799 Learning Lab
+
+new content :Line-1800 Learning Lab
+old content :Line-1800 
+
+new content :Line-1802 
+old content :Line-1802 Status
+
+new content :Line-1803 Status
+old content :Line-1803 
+
+new content :Line-1805 
+old content :Line-1805 Contact GitHub
+
+new content :Line-1806 Contact GitHub
+old content :Line-1806 
+
+new content :Line-1811 
+old content :Line-1811           Company
+
+new content :Line-1812           Company
+old content :Line-1812 
+
+new content :Line-1815 
+old content :Line-1815 About
+
+new content :Line-1816 About
+old content :Line-1816 
+
+new content :Line-1818 
+old content :Line-1818 Blog
+
+new content :Line-1819 Blog
+old content :Line-1819 
+
+new content :Line-1821 
+old content :Line-1821 Careers
+
+new content :Line-1822 Careers
+old content :Line-1822 
+
+new content :Line-1824 
+old content :Line-1824 Press
+
+new content :Line-1825 Press
+old content :Line-1825 
+
+new content :Line-1827 
+old content :Line-1827 Inclusion
+
+new content :Line-1828 Inclusion
+old content :Line-1828 
+
+new content :Line-1830 
+old content :Line-1830 Social Impact
+
+new content :Line-1831 Social Impact
+old content :Line-1831 
+
+new content :Line-1833 
+old content :Line-1833 Shop
+
+new content :Line-1834 Shop
+old content :Line-1834 
+
+new content :Line-1845 
+old content :Line-1845 GitHub on Twitter
+
+new content :Line-1846 GitHub on Twitter
+old content :Line-1846 
+
+new content :Line-1851 
+old content :Line-1851 GitHub on Facebook
+
+new content :Line-1852 GitHub on Facebook
+old content :Line-1852 
+
+new content :Line-1857 
+old content :Line-1857 GitHub on YouTube
+
+new content :Line-1858 GitHub on YouTube
+old content :Line-1858 
+
+new content :Line-1863 
+old content :Line-1863 GitHub on LinkedIn
+
+new content :Line-1864 GitHub on LinkedIn
+old content :Line-1864 
+
+new content :Line-1869 
+old content :Line-1869 GitHubs organization on GitHub
+
+new content :Line-1870 GitHubs organization on GitHub
+old content :Line-1870 
+
+new content :Line-1875 
+old content :Line-1875            2022 GitHub, Inc.
+
+new content :Line-1876            2022 GitHub, Inc.
+old content :Line-1876 
+
+new content :Line-1878 
+old content :Line-1878 Terms
+
+new content :Line-1879 Terms
+old content :Line-1879 
+
+new content :Line-1881 
+old content :Line-1881 Privacy
+
+new content :Line-1882 Privacy
+old content :Line-1882 
+
+new content :Line-1884 
+old content :Line-1884 Site Map
+
+new content :Line-1885 Site Map
+old content :Line-1885 
+
+new content :Line-1887 
+old content :Line-1887 What is Git?
+
+new content :Line-1888 What is Git?
+old content :Line-1888 
+
+new content :Line-1902 
+old content :Line-1902     You cant perform that action at this time.
+
+new content :Line-1903     You cant perform that action at this time.
+old content :Line-1903 
+
+new content :Line-1908 
+old content :Line-1908 You signed in with another tab or window. Reload to refresh your session.
+
+new content :Line-1909 You signed in with another tab or window. Reload to refresh your session.
+old content :Line-1909 You signed out in another tab or window. Reload to refresh your session.
+
+new content :Line-1910 You signed out in another tab or window. Reload to refresh your session.
+old content :Line-1910 
+
+******
+13:19
+******
+Checking http://www.google.com
+Checked http://www.google.com
+----------------
+Checking https://github.com/
+Checked https://github.com/
+----------------
