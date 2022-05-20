@@ -15,4 +15,4 @@ while True:
     f.write(date_time+","+r.text+"\n")
     print (date_time,rfloat)
 
-    time.sleep(3600)
+    time.sleep(1800)
